@@ -5,3 +5,10 @@
 - Completed API Testing labs in PortSwagger academy.
 - BugBounty Reconnaisiance, subdomain enumerations, little bit of bash scripting etc
 
+## 25th-May-2025
+- Learned about Vritual Local Area Network
+- VLAN purpose
+- How does VLAN work?
+- Performance and Process Monitoring (top,ps,lsof,vmstat,free)
+- Swapping memmory ( swap area) 
+
